@@ -44,4 +44,5 @@ pm2 startup
 - Auth session is stored in `.wwebjs_auth` and cached in `.wwebjs_cache`.
 - Conversation memory is in-memory only. For persistence, add Redis/SQLite.
 
-Manish Joshi
+
+- Udesh-Regmi
